@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rakib</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=4AE2F7&width=435&lines=Hi%2C+I'm+Rakib;Competitive++Programmer;Python+%7C+C%2B%2B+%7C+Web+Dev+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AE2F7&width=435&lines=Hi%2C+I'm+Rakib;Competitive++Programmer;Python+%7C+C%2B%2B+%7C+Web+Dev+Enthusiast" alt="Typing SVG" />
-</p>
 
 
 
