@@ -5,6 +5,7 @@
 </p>
 
 
+---
 
 
 
@@ -18,7 +19,7 @@ Here you’ll find a collection of my favorite projects, each showcasing differe
 
 ## 🧩 About Me
 
-I'm a Computer Science student passionate about software development, competitive programming, and creative problem-solving. I specialize in Python, C++, and JavaScript, and I love building things that blend functionality with clean design.
+I'm a Computer Science student passionate about software development, competitive programming, and creative problem-solving. I'm fairly good at Python, C++, and JavaScript, and I love building things that blend functionality with clean design.
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
