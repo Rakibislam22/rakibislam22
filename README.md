@@ -63,8 +63,8 @@ A visual tool to understand how sorting/searching algorithms work step-by-step.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib-codes&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-codes&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakibislam22&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibislam22&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 ---
