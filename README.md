@@ -4,11 +4,7 @@
   </a>
 </p>
 
-
 ---
-
-
-
 
 # 👨‍💻 Rakib Islam – Developer Portfolio
 
@@ -60,6 +56,7 @@ A visual tool to understand how sorting/searching algorithms work step-by-step.
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -81,7 +78,11 @@ A visual tool to understand how sorting/searching algorithms work step-by-step.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
 </p>
 
-----
+---
 
-> 💡 *Feel free to explore the repositories and drop a ⭐ if something catches your eye!*
+## ➗ Usage of `%` in Different Programming Languages
 
+### Python
+```python
+a = 10 % 3  # Result: 1
+print(a)
