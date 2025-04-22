@@ -59,10 +59,19 @@ A visual tool to understand how sorting/searching algorithms work step-by-step.
 
 ## 📊 GitHub Stats
 
+<!-- Existing stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rakibislam22&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibislam22&theme=github-dark&hide_border=true" width="48%" />
 </p>
+
+<!-- NEW: Most Used Languages -->
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibislam22&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
 
 ---
 
@@ -79,10 +88,3 @@ A visual tool to understand how sorting/searching algorithms work step-by-step.
 </p>
 
 ---
-
-## ➗ Usage of `%` in Different Programming Languages
-
-### Python
-```python
-a = 10 % 3  # Result: 1
-print(a)
