@@ -6,7 +6,7 @@
 
 ---
 
-# 👨‍💻 Rakib Islam – Developer Portfolio
+# 👨‍💻 Md Rakib Ali – Developer Portfolio
 
 Welcome to my developer portfolio!  
 Here you’ll find a collection of my favorite projects, each showcasing different technologies, skills, and interests I’ve developed throughout my coding journey.
