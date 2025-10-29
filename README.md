@@ -38,7 +38,8 @@
 # ⚒️ Languages & Tools ⚒️
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,tailwind,react,nodejs,express,firebase,mysql,mongodb,npm," />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,postman,figma" />
 </div>
 
 <br/>
