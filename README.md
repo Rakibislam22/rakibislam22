@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/dsTccVpB/banner.gif" hight=90% width=100% />
+<img src="banner.gif" hight=90% width=100% />
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
