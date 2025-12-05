@@ -52,6 +52,9 @@
   <a href="https://codeforces.com/profile/rakib2004" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://rakibislam22.github.io/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 
