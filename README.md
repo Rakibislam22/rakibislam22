@@ -1,9 +1,7 @@
 <img src="banner.gif" hight=90% width=100% />
 
 <h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4AE2F7&width=435&lines=Hi%2C+I'm+Rakib;Competitive++Programmer;Python+%7C+C%2B%2B+%7C+Web+Dev+Enthusiast" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&letterSpacing=&pause=1000&color=7233F7&center=true&vCenter=true&width=435&lines=Hi..!+++I'am+Rakib;MERN+stack+Developer;Competitive+Programmer" alt="Typing SVG" /></a>
 </h2>
 
 <br/>
@@ -64,8 +62,8 @@
 # ⚒️ Languages & Tools ⚒️
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,tailwind,react,nodejs,express,firebase,mysql,mongodb,npm" />
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,html,css,tailwind,nodejs,express,c,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,redis,vscode,git,github,bash,postman,figma" />
 </div>
 
 <br/>
