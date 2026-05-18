@@ -21,13 +21,13 @@
   - 🌱 <strong>Learning:</strong> Advanced MERN Stack, DSA, Competitive Programming<br/>
   - 💡 <strong>Interests:</strong> Web Development, Problem Solving, Open Source<br/>
   - 🤝 <strong>Looking To Collaborate:</strong> MERN, React Projects, API Development<br/>
-  - 📫 <strong>Reach Me At:</strong> rakibislam13122018@gmail.com  
+  - 📫 <strong>Reach Me At:</strong> mdrakibislam.kcn@gmail.com  
 </h4>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:rakibislam13122018@gmail.com" target="_blank">
+  <a href="mailto:mdrakibali@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
