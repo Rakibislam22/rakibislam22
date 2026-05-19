@@ -16,13 +16,15 @@
 
 <br/>
 
-<h4 align="center">
-  - 🔭 <strong>Currently Working On:</strong> Full-Stack MERN Projects<br/>
-  - 🌱 <strong>Learning:</strong> Advanced MERN Stack, DSA, Competitive Programming<br/>
-  - 💡 <strong>Interests:</strong> Web Development, Problem Solving, Open Source<br/>
-  - 🤝 <strong>Looking To Collaborate:</strong> MERN, React Projects, API Development<br/>
-  - 📫 <strong>Reach Me At:</strong> mdrakibislam.kcn@gmail.com  
-</h4>
+<div align="center">
+  <h3>🚀 Profile Overview</h3>
+  <p><strong>Currently Working On:</strong> Full-Stack MERN Projects</p>
+  <p><strong>Learning:</strong> Advanced MERN Stack, DSA, Competitive Programming</p>
+  <p><strong>Interests:</strong> Web Development, Problem Solving, Open Source</p>
+  <p><strong>Looking To Collaborate:</strong> MERN, React Projects, API Development</p>
+  <p><strong>Reach Me At:</strong> mdrakibislam.kcn@gmail.com</p>
+</div>
+
 
 <br/>
 
