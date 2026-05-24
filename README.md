@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <h3>🚀 Profile Overview</h3>
+  <h3>🙋🏻 Profile Overview</h3>
   <p><strong>Currently Working On:</strong> Full-Stack MERN Projects</p>
   <p><strong>Learning:</strong> Advanced MERN Stack, DSA, Competitive Programming</p>
   <p><strong>Interests:</strong> Web Development, Problem Solving, Open Source</p>
