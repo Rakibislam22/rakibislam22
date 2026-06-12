@@ -25,7 +25,6 @@
   <p><strong>Reach Me At:</strong> mdrakibislam.kcn@gmail.com</p>
 </div>
 
-
 <br/>
 
 <div align="center">
