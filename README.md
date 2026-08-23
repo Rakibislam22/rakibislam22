@@ -1,4 +1,8 @@
-<img src="banner.gif" hight=90% width=100% />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="rakibislam22's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&letterSpacing=&pause=1000&color=7233F7&center=true&vCenter=true&width=435&lines=Hi..!+++I'am+Rakib;MERN+stack+Developer;Competitive+Programmer" alt="Typing SVG" /></a>
