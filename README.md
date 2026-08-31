@@ -95,7 +95,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakibislam22&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rakibislam22&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 <br/>
