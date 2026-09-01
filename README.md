@@ -79,7 +79,7 @@
 <br/>
 
 <div align="center">
-  <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/rakibislam22?cardType=github&theme=tokyonight" alt="GitHub Stats" />
+  <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/rakibislam22?cardType=github&theme=tokyonight" alt="GitHub Stats"/>
   <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibislam22&count_private=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
 </div>
 
