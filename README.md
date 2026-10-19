@@ -95,7 +95,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakibislam22&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Rakibislam22&theme=tokyonight&no-frame=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -104,5 +104,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibislam22&theme=github-dark&hide_border=true" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=rakibislam22&theme=github-dark&hide_border=true" />
 </div>
